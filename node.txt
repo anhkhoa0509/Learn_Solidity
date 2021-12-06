@@ -1,0 +1,6 @@
+bool myBoolearn  = true // true, false
+uint myUnsingnedInteger  = 10 // Luôn >= 0
+int myInteger = -10;
+string myString = "MyString Hello";
+address myAddress = msg.sender;
+mapping 
