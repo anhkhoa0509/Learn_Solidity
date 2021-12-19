@@ -1,0 +1,6 @@
+/ node-module
+/ nhà cung cấp
+/ .idea
+.idea /
+.env
+node_modules

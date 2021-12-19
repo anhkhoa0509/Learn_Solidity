@@ -1,6 +1,6 @@
 const CryptoZombies = artifacts.require("CryptoZombies");
-const utils = require("./helpers/utils");
-const time = require("./helpers/time");
+const utils = require("../../test/helpers/utils");
+const time = require("../../test/helpers/time");
 var expect = require('chai').expect;
 const zombieNames = ["Zombie 1", "Zombie 2"];
 contract("CryptoZombies", (accounts) => {
